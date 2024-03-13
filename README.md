@@ -1,1 +1,5 @@
 # Abbot-Tubeine
+
+**`Digital Craftsman (Full-Stack Software Engineer|Cyber Security Researcher)`**
+
+I'm a student in Boston, pursuing a double major in computer science and cybersecurity. My passion for technology has driven me to embark on a self-taught journey in software engineering, taking me from zero to where I am today. Along the way, I've worked on a variety of projects, spanning from front-end to full-stack development. Exposure to both computer science and cybersecurity practices has fueled my desire to continuously acquire new skills. I've enrolled in courses covering topics like Practical Ethical Hacking, Open-Source Intelligence, Windows and Linux Privilege Escalation, and External Penetration Testing. While having such a diverse skill set has presented me with the challenge of choosing a specialization, my approach to the digital world is to learn as many skills as possible, one step at a time. All the coding projects in my portfolio are meticulously crafted from initial planning and design to problem-solving, reflecting my commitment to hands-on learning and development.
